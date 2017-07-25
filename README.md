@@ -13,7 +13,7 @@ Module send mail by ossec tls.
     Script created in python for the ossec application for the purpose of sending e-mail logs with tls protocol, in which it is not supported by ossec. Compare ossec alert file hash if there is a change sends email with the latest logs.
     
 * Version: 0.1
-* [Pedro Alexandre Pacheco](https://bitbucket.org/pedroalpacheco/ossec-mail_py)
+* [Pedro Alexandre Pacheco](https://bitbucket.org/pedroalpacheco)
 
 ### How do I get set up? ###
 
